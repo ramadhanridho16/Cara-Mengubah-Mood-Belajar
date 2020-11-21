@@ -1,3 +1,4 @@
 Resolusi:
 - Mempelajari Logika Pemorgraman
 - Mempelajari Pemrograman web
+- Mempelajari database
